@@ -7,7 +7,7 @@ public class A {
 		C Hello3 = new C();
 		Hello2.Hello_B();
 		Hello3.Hello_C();
-		
+		System.out.println("Master branch changes A");
 	}
 
 }
